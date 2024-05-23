@@ -1,0 +1,49 @@
+.charts{
+    display: flex;
+    margin: 20px;
+}
+
+.line{
+    flex: 1;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin-right: 20px;
+}
+
+.pie{
+    flex: 1;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.second-charts{
+    display: flex;
+    margin: 20px;
+}
+
+.stackLine{
+    flex: 1;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.point-line{
+    flex: 1;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin-right: 20px;
+}
+
+.point-2lines{
+    flex: 1;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin-right: 20px;
+}
+
+.donut{
+    flex: 1;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin-right: 20px;
+}
+
+/* .gauge{
+    flex: 1;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin-right: 20px;
+} */
